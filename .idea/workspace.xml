@@ -16,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UWAUpLQ0oA5nFIfCus3mhFMAVY" />
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -29,7 +32,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for CalculadoraTest.MyTestCase.test_sumaTotal">
+  <component name="RunManager" selected="Python tests.Unittests for CalculadoraTest.MyTestCase">
+    <configuration name="Unittests for CalculadoraTest.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;CalculadoraTest.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for CalculadoraTest.MyTestCase.test_inicializaValor" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,9 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase" />
         <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_sumaTotal" />
-        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_sumaUnValor" />
         <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_inicializaValor" />
+        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_sumaUnValor" />
         <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_something" />
       </list>
     </recent_temporary>
