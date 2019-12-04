@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0065cd85-7cd1-4e2f-abdd-60a97fbb8e97" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0065cd85-7cd1-4e2f-abdd-60a97fbb8e97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miCalculadora.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,7 @@
       <list>
         <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -20,19 +26,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UWAUpLQ0oA5nFIfCus3mhFMAVY" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for CalculadoraTest.MyTestCase">
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.py" />
+  </component>
+  <component name="RunManager">
     <configuration name="Unittests for CalculadoraTest.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,15 +108,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase" />
-        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_sumaTotal" />
-        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_inicializaValor" />
-        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_sumaUnValor" />
-        <item itemvalue="Python tests.Unittests for CalculadoraTest.MyTestCase.test_something" />
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
-    </recent_temporary>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,5 +133,15 @@
       <updated>1575461996009</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1575486251023">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575486251023" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575483532965">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575483532965" />
   </component>
 </project>
